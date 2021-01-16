@@ -1,0 +1,10 @@
+test = {   'name': 'q3_10',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(little_calories, str)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> len(little_calories) != 1 # We want the full name of the manufacturer, not just the abbreviation! Refer to the table above.\nTrue',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
