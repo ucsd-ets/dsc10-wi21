@@ -1,0 +1,10 @@
+test = {   'name': 'q1_17',
+    'points': 2,
+    'suites': [   {   'cases': [   {   'code': ">>> set(begin_cases.columns) == set(['state', 'population', 'beginPositive', 'beginPositiveRate']) #check your column names\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> all(begin_cases.get('state').apply(len) == 2) #states should be listed by two-letter abbreviation\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

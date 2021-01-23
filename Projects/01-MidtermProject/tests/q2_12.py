@@ -1,0 +1,11 @@
+test = {   'name': 'q2_12',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': ">>> sd_outbreaks_dt.shape[1] == 11 #make sure you haven't added any columns to sd_outbreaks since question 2.2\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': '>>> sd_outbreaks_dt.shape[0] == 844 #make sure you are starting with all the outbreaks, not just outbreak locations\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> 'datetime' in sd_outbreaks_dt.columns\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,10 @@
+test = {   'name': 'q1_1',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> covid_raw.shape[1] == 12\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> 'totalTestResults' in covid_raw.columns and 'totalTestResultsIncrease' in covid_raw.columns #check your column names\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
