@@ -1,0 +1,546 @@
+id,name,menus_appeared,times_appeared,first_appeared,last_appeared,lowest_price,highest_price
+1,G. H. Mumm & Co's Extra Dry,14,14,1895,1914,2,4
+2,Diamond back terrapin,6,6,1897,1905,2,2
+3,Broiled Salmon Trout,9,9,1891,1957,2,2
+4,"Moet & Chandon, Brut",10,10,1892,1914,1.75,5
+5,Irroy Brut,25,25,1892,1906,1.75,4
+6,Grilled chicken,39,40,1899,1921,1.25,2.5
+7,"Mumm, Extra dry",7,9,1882,1917,2,8
+8,Double porterhouse steak,39,39,1900,1918,1,140
+9,"Whole chicken, Maryland style",6,6,1898,1913,1,2
+10,English pheasant,29,33,1884,1917,1.75,5
+11,Irish black game,5,5,1899,1900,3,3
+12,"Delbeck, Extra Dry",6,6,1890,1901,1.6,4
+13,Sparkling Muscatel,6,6,1899,1901,1.75,3.5
+14,"G.H. MUMM'S, EXTRA DRY",6,6,1888,1941,1.65,12
+15,"Moet and Chandon ""White Seal""",5,5,1901,1901,1.75,3.5
+16,Filet Chateaubriand with mushrooms,27,27,1882,1907,1.5,150
+17,Filet Chateaubriand a la Financiere,12,12,1892,1913,2.2,3
+18,Broiled Capon,15,15,1900,1915,1.75,3
+19,Terrapin in Chafing Dish,10,10,1900,1900,1.25,2.5
+20,Celery-Fed Duck,14,14,1900,1900,1,2
+21,Broiled Spring Duckling,33,34,1898,1915,1,150
+22,Double Porterhouse,20,20,1900,1937,1,2
+23,Extra porterhouse,30,32,1896,1912,1.5,200
+24,Extra sirloin steak a la bordelaise,22,22,1892,1905,1,150
+25,Filet chateaubriant,11,11,1900,1905,1.25,2.5
+26,"Porterhouse steak, extra",14,14,1898,1907,2,150
+27,Romanee Conti,11,11,1881,1916,2,6
+28,Double sirloin with onions,9,9,1901,1901,1.15,2.25
+29,Double sirloin with mushrooms,37,38,1898,1920,1.4,4
+30,"Cooks Imperial, (American)",5,5,1899,1901,1.25,2.5
+31,Monopole Dry,5,5,1892,1900,2,4
+32,"Pontet Canet, J. Calvet & Co.",11,12,1898,1914,1,2
+33,"G. H. Mumm & Co., Ex. Dry",6,6,1881,1913,1,4
+34,"Pommery & Greno, Vin Nature",5,5,1900,1905,1.75,4.5
+35,Grand Vin Chateau Yquem,8,9,1898,1905,2,30
+36,Porterhouse steak with truffles,19,19,1892,1901,1.5,2.25
+37,"Duc de Montebello, Extra Dry",6,6,1882,1913,1.75,4.5
+38,Delbeck Extra Dry,7,7,1886,1901,2,4
+39,Irroy Vin Brut,10,10,1896,1901,1.75,4
+40,"Ruinart, Brut",25,25,1900,1918,1,6
+41,"Pontet Canet, Cruse & Fils Freres",21,21,1899,1901,1,12
+42,Spring duckling ,11,11,1896,1907,1,12
+43,Cook's Imperial Extra Dry,11,11,1892,1946,1,7.5
+44,"Extra Sirloin Steak, with Mushrooms",20,20,1899,1906,1,2
+45,Widgeon,5,5,1865,1900,1,100
+46,Scharlachberger Riesling,5,5,1900,1901,1.1,2
+47,Tenderloin with Truffles,10,10,1865,1907,1,2.5
+48,Extra Large Sirloin Steak,16,16,1894,1914,1.25,2
+49,"Extra Porterhouse Steak, with Mushrooms",12,12,1892,1905,1.8,4
+50,"Extra Sirloin Steak, Bearnaise",6,6,1900,1914,1.6,2.5
+51,"Extra Porterhouse Steak, Plain",15,16,1892,1912,1,2.5
+52,"Chateaubriand, Parisienne",5,5,1900,1901,1.5,2
+53,melton mowbray pie,10,10,1896,1938,2.85,2.85
+54,Squab turkey,11,11,1901,1907,1.75,4
+55,"Fresh strawberries, Melba",11,11,1906,1907,1,100
+56,Homard Rothschild,6,6,1905,1906,1,80
+57,"Dry Monopole, Red Top",14,14,1897,1918,1.75,6.5
+58,Porterhouse steak double,14,14,1892,1920,1.75,6.5
+59,Family porterhouse,30,30,1892,1917,1.5,3.25
+60,Potatoes--Saratoga,5,5,1900,1900,15,15
+61,"Plymouth Gin, Coates'",5,5,1900,1900,2,2
+62,"Renault Brandy, 50 years old",5,5,1900,1900,6,6
+63,Perrier Jouet,38,40,1885,2012,1,5
+64,Pol Roger,14,14,1906,1968,2,450
+65,"Sparkling Burgundy, Cresta Blanca",7,7,1907,1915,1,2.5
+66,"Liebfraumilch, Deinhard",5,5,1907,1964,1.5,4.51
+67,"Monopole Club, Dry",6,6,1900,1900,1.75,4
+68,Irroy,9,9,1855,1900,1,4
+69,Choice Old Madeira,5,5,1900,1900,4,4
+70,Old London Port,5,5,1900,1900,2.5,2.5
+71,Saddle of Lamb,18,18,1880,1940,3,8
+72,Extra porterhouse steak mushrooms,5,5,1900,1900,1.6,3.25
+73,Pommery Sec.,12,12,1893,1914,1.75,4.75
+74,Perrier Jouet Reserve Dry,18,18,1899,1901,1.75,3.5
+75,Veuve Clicquot Yellow Label,25,26,1897,1914,1.75,15
+76,"Premier Brand, Special Dry",10,10,1900,1901,1,2
+77,"Terrapin, Maryland style",21,21,1894,1913,1.25,250
+78,Boned Squab a la Rossini,9,9,1906,1907,1.5,150
+79,"Pontet Canet, B. & G.",5,5,1882,1907,1,2.5
+80,G. H. Mumm Extra Dry,21,21,1896,1914,1.75,5
+81,Pommery & Greno,39,39,1882,1968,1.75,25
+82,broiled spring turkey,30,30,1895,1912,1,3.5
+83,Chateau Mouton Rothschild,38,39,1900,1978,2,27.5
+84,Chateau Mouton,7,7,1859,1897,2,5
+85,Latour Blanche,38,40,1865,1914,1,4
+86,"Amontillado, very dry",6,6,1865,1900,1.25,3.5
+87,Grilled Tenderloin Steak,6,6,1900,1959,1,3.25
+88,Forster Jesuitengarten,11,11,1900,1914,1.1,3
+89,Steinberger Cabinet,31,31,1862,1914,1.75,6
+90,Chateau Langoa,6,6,1852,1900,2,3
+91,Delbeck Brut,12,12,1896,1955,1.75,12.5
+92,"Terrapin, Philadelphia",32,32,1897,1917,3.5,4
+93,"Piper Heidsieck, Sec",44,44,1888,1938,1.4,4.5
+94,"Perrier-Jouet, Reserve",6,6,1897,1901,1.6,4
+95,Curry Rice,25,25,1900,1985,3.33,4.25
+96,French Pullet,5,5,1901,1914,3.5,3.5
+97,and,8,8,1900,1962,3,3
+98,Extra Tenderloin,10,10,1900,1914,1.2,2
+99,"Chicken en casserole, whole",16,16,1900,1914,1,2.75
+100,Gold Lack,9,9,1883,1901,1.5,3.5
+101,Redhead Duck,12,12,1889,1900,1.5,150
+102,French Carrots,5,5,1900,1901,10,10
+103,Whole Chicken en Casserole,6,6,1900,1917,1.25,2
+104,"Mumm & Co., Ex. Dry",9,9,1898,1900,2,4
+105,Broiled Porterhouse Steak,9,9,1900,1955,5.25,5.25
+106,Dry Monopole Ex,13,13,1899,1901,2,3.5
+107,Haute Sauterne,28,28,1880,1947,1,7
+108,Omelets,36,36,1856,1921,2,2
+109,"Roast Vermont Turkey, Stuffed, Cranberry Sauce",5,5,1900,1947,2.25,2.25
+110,"Hennessy, Three Star, 1868",5,5,1900,1900,3,3
+111,Piper Heidsieck (Brut. 1889),8,8,1900,1900,2.5,2.5
+112,Piper Heidsieck (Sec.),10,10,1900,1900,2,2
+113,G. H. Mumm's (Extra Dry),8,8,1899,1901,2,3.5
+114,Veuve Cliquot (Yellow Label),16,16,1900,1901,1.75,3.5
+115,"Pommery & Greno, Ex. Dry,",5,5,1900,1910,1.4,2.5
+116,"Piper Heidsieck Brut Extra,",8,8,1900,1910,1.4,2.5
+117,"Pommard, Jules Regnier & Co.",14,14,1900,1906,1,2.25
+118,"Piper Heidsieck, White Label",11,11,1897,1901,1.75,4
+119,"Moet & Chandon, Imperial Brut",14,14,1896,1913,2,5
+120,Cook's Imperial Champagne,26,26,1893,1955,1,5.5
+121,"Dry Monopole, Extra",16,16,1900,1905,1.75,4
+122,"Monopole, Club Dry",15,15,1896,1905,1.75,4
+123,"Chas. Heidsieck, B. L.",8,8,1900,1900,1.75,3.5
+124,"Piper Heidsieck, Sec. W. L.",8,8,1900,1900,1.5,3
+125,"Old Tom, Booth",7,7,1900,1900,2,2
+126,"Old Tom, Burnett",7,7,1900,1900,2,2
+127,Gilbey's Plymouth,7,7,1900,1900,2,2
+128,Old Cutter,8,8,1900,1900,2.5,2.5
+129,Bells 79 Old Crow,7,7,1900,1900,4.5,4.5
+130,"Vino de Pasto, Dry",9,9,1900,1900,2,3.15
+131,Extra Porterhouse Steak with Mushrooms,28,28,1892,1913,1.8,5.5
+132,Roast Philadelphia Chicken,16,16,1888,1918,1,2
+133,"Marcobrunner, Henkell & Co.",8,8,1882,1900,1,3.5
+134,Moet & Chandon (White Seal),10,10,1890,1906,1.75,4
+135,Clicquot,9,9,1889,1901,2,4
+136,"Cook's Imperial, Extra Dry",20,20,1898,1914,1,2.5
+137,EASTERN OYSTERS,11,11,1880,1901,2.5,2.5
+138,"L. Roederer, Grand Vin Sec",20,20,1896,1916,1.6,32.5
+139,"L. Roederer, Brut",26,26,1898,1918,1.75,6
+140,Chateau Beycheville,8,8,1899,1901,1.25,2.5
+141,Chateau La Fite,6,6,1900,1901,2.5,4
+142,Stein Wein (Bocksbeutel),5,5,1900,1900,1,2
+143,Schloss Johannisberger,18,18,1884,1907,2,9
+144,"Amontillado, old",11,11,1898,1901,1,2
+145,"Rich, 1820",5,5,1898,1900,1.5,3
+146,"Chablis, (White)",5,5,1892,1900,1.25,20
+147,"Chambertin, R. Bruninghaus",16,16,1873,1901,1.25,4
+148,"Monopole, Extra Dry",5,5,1896,1900,1.75,350
+149,G.H. Mumm Extra Dry,13,13,1897,1959,2,12.5
+150,"Old Port, The Doctor",6,6,1900,1900,3,3
+151,"Veuve Clicquot, White Label",5,5,1892,1901,1.75,3.75
+152,Duc de Montebello,32,32,1890,1917,1,7
+153,"Delmonico, half pints",11,11,1892,1901,1,3.5
+154,Louis Roederer's Grand Vin Sec,5,5,1888,1901,1.75,3.75
+155,Duminy Brut ,7,7,1900,1900,1.75,4
+156,"Chablis, R. Brüninghaus",8,8,1900,1901,1,3
+157,"Pommard, R. Brüninghaus",12,12,1892,1901,1,3
+158,"Porterhouse Steak, with truffles",11,11,1882,1900,1.5,2.1
+159,Porterhouse Steak extra,7,7,1899,1901,1.75,2.5
+160,Double porterhouse steak with mushrooms,23,23,1900,1918,1.25,160
+161,"Perrier Jouet, Special",10,10,1887,1901,1,3.5
+162,"Perrier Jouet, Brut",8,8,1900,1913,1.75,4.5
+163,Extra sirloin steak with truffles,13,13,1892,1907,1.5,3.5
+164,Chateaubriant with truffles,11,11,1900,1913,2.5,3.25
+165,Porterhouse extra,7,7,1900,1905,2,4.5
+166,Celery-fed duckling,14,14,1899,1918,1,3.5
+167,Cream of Green Corn,6,6,1896,1913,10,60
+168,Moet & Chandon's White Seal,7,7,1905,1907,1.75,3.5
+169,"G. H. Mumm's, Extra Dry",18,18,1892,1944,1.65,350
+170,"Chicken en casserole, Bourgeoise",5,5,1905,1941,1.15,2.5
+171,Veuve Clicquot (Yellow Label),7,7,1887,1905,1.75,4
+172,"Chicken casserole, Bourgeoise",11,11,1901,1955,1.5,4
+173,"Piper Heidsieck, Brut",31,32,1899,1981,1.5,43
+174,Roederer Brut,7,7,1898,1912,2,5
+175,Krug Brut,5,5,1901,1917,2,6
+176,Sparkling Chambertin,10,10,1900,1917,1.75,5.5
+177,Half Planked Shad,13,13,1900,1915,1,2.5
+178,Extra Sirloin Steak for (3),5,5,1906,1917,1,3.25
+179,Old Reserve Madeira,15,15,1882,1913,1,12
+180,"Champagne, Pommery Sec",7,7,1882,1908,1.6,4
+181,Extra porterhouse with mushrooms,5,5,1900,1901,2,3.5
+182,Chateaubriand with mushrooms,22,23,1892,1918,1,4
+183,"Chateau Yquem, Barton & Guestier",7,7,1891,1917,2,5
+184,Club Sirloin Steak,8,8,1900,1947,1.25,4.5
+185,"Extra Porterhouse Steak, Mushrooms",7,7,1900,1918,1.6,3.75
+186,Tokay Imperial,7,7,1892,1901,2.5,6
+187,George Goulet,17,17,1883,1910,1.5,4
+188,"Chateau Lagrange, 1887",6,6,1901,1917,1.25,4
+189,"Chateau Mouton Rothschild, 1881",5,5,1901,1907,1.5,4.5
+190,Scharzhofberger,21,26,1900,1914,1.25,3
+191,Ambassador Brandy,5,5,1900,1900,7,7
+192,"Cossart, Gordon & Co., Everett House Private Stock",5,5,1900,1900,6,6
+193,"Potatoes, any style",7,7,1899,1901,5,5
+194,"Chas. Heidsieck, Extra Dry",6,6,1901,1917,1.75,5
+195,Double porterhouse with mushrooms,14,14,1900,1901,1.25,2.5
+196,Oysters on the Half-Shell,6,6,1900,1979,2.95,2.95
+197,G.H. Mumm's Ex. Dry,6,6,1883,1914,1.4,4
+198,G.H. Mumm's (Extra Dry),6,6,1900,1900,2,2
+199,Mumm's Extra Dry Champagne,22,22,1891,1962,1.75,14.5
+200,"Perrier-Jouet Reserve, Dry",5,5,1900,1900,1.75,3.5
+201,"Porterhouse steak, double",23,23,1900,1918,1.5,4.5
+202,Porterhouse Steak (For Two),6,6,1900,1924,1.2,3
+203,"Château Margaux, 1887",5,5,1900,1907,1.5,3.5
+204,Steinwein in Boxbeutel,9,9,1900,1907,1,2
+205,"Pommery & Greno, Extra Dry",5,5,1900,1959,1.4,11.5
+206,"Chateau Lafite, 1874",5,5,1891,1913,1.75,5
+207,"Haut sauternes, 1874",8,8,1900,1901,1,2.5
+208,Feist Cabinet,7,7,1900,1901,1.75,3.5
+209,"Johannesberger Cabinet, Everett House Private Stock",6,6,1900,1900,9,18
+210,"Nuits, Everett House Private Stock",5,5,1900,1900,4,4
+211,"Chambertin, Everett House Private Stock",5,5,1900,1900,6,6
+212,"Latour Blanche, Everett House Private Stock",5,5,1900,1900,6,6
+213,Graacher Auslese,6,6,1892,1900,1.5,2
+214,"Geneva Gin, ""Extra""",5,5,1900,1900,2,2
+215,Chatham Gin,5,5,1900,1900,1.5,2
+216,G. H. Mumm's,10,11,1899,1943,1.75,16
+217,Liebfraumilch Auslese,12,12,1900,1907,1.25,3
+218,"Louis Roederer Brut, 1893",5,5,1900,1901,2,4
+219,"Chateaubriant, with mushrooms",11,11,1893,1920,1.45,4.25
+220,Perrier-Jouet Brut,6,6,1895,1984,2,30
+221,"Piper Heidsieck, Brut Ex",6,6,1900,1901,2.5,5
+222,Filet Mignon Rossini,8,8,1907,1955,2.35,6.75
+223,Roast Squab Chicken,21,21,1905,1940,1.25,125
+224,Pommery Sec Champagne,34,34,1889,1919,1.6,14
+225,Turkey salad,16,17,1885,1980,1.2,4.5
+226,Roast Guinea Hen,9,9,1901,1933,3,3.25
+227,Astrakan Caviar,14,17,1900,1918,1,2
+228,"Prime Ribs of Beef, Yorkshire Pudding",13,13,1900,1950,3.5,3.5
+229,Clicquot Yellow Label,9,9,1894,1941,2,10
+230,Irroy Extra Dry,6,6,1887,1901,2,4
+231,Johannisberger Cabinet,7,8,1865,1914,1.75,8
+232,Monopole Club Dry,8,8,1896,1905,1.75,4
+233,Honeysuckle Gin,5,5,1900,1901,2,2.5
+234,Duc de Montebello Brut,8,8,1899,1918,2,5.25
+235,Pommery & Greno. Ex. Dry,10,10,1900,1901,1.4,2050
+236,"Urbana Wine Co., Gold Seal Special Dry",6,6,1900,1901,1,2
+237,Chateau Larose 1877,9,9,1892,1901,1.5,3
+238,TERRAPIN a la Baltimore,7,7,1897,1907,2,350
+239,G.H. Mumm's,7,7,1866,1914,1.75,4.5
+240,Canneton,22,22,1900,1918,1.25,3.5
+241,"Latour Blanche, Cruse & Fils Freres",7,7,1900,1901,1.5,2.5
+242,"Ruinart, Vin Brut,",10,10,1900,1910,1.4,2.5
+243,Glaces assorties,32,33,1888,1969,2,2.25
+244,"Clicquot, Brut",9,9,1900,1917,2,6
+245,Bouche Fils,11,11,1900,1901,1,3.75
+246,Gold Seal Special Dry,17,17,1900,1941,1,3.75
+247,Chateau Latour Blanche B. & G.,7,7,1900,1900,2,4
+248,"Chambertin, 1887",8,8,1900,1901,1.75,3.5
+249,Scharlachberger,9,9,1900,1900,1,2.5
+250,Sharzhofberger Auslese,5,5,1900,1900,4,4
+251,Chapon roti,5,5,1901,1912,4,4
+252,Zeltinger Berg,5,5,1900,1900,1.5,3
+253,Wiltinger Auslese,5,5,1900,1900,4,4
+254,Egri Superior,11,11,1900,1901,1,2
+255,Chateau Egri Cabinet,6,6,1900,1901,1.75,3.5
+256,Somlai Cabinet,12,12,1900,1901,1,2.5
+257,Tokayer Ausbruch Cabinet,6,6,1900,1901,3.5,3.5
+258,Tokayer Imperial,6,6,1900,1901,4.5,4.5
+259,Sweet Breads,7,7,1865,1906,35,35
+260,"Pommery & Greno, Ex. Dry",41,41,1900,1910,1.4,2.5
+261,Chateau Smith Haut Lafite,5,5,1892,1907,1.25,2.5
+262,Extra porterhouse steak with onions,10,10,1892,1918,1.7,3.75
+263,Johannesberger,9,9,1851,1901,1.25,5.5
+264,Tokay Aszu,7,7,1893,1901,4,5
+265,"Planat & Co. Cognac, 1842",8,8,1892,1901,5,5
+266,"Planat & Co. Cognac, 1850",7,7,1892,1901,4,4
+267,Old Bourbon Hand Made Sour Mash,9,9,1892,1901,2,2
+268,Citron Tree Gin,9,9,1892,1901,2,2
+269,Amber,6,6,1901,1913,1,2
+270,"Champagne, Piper Heidsieck Brut Extra",17,17,1896,1910,1.4,4
+271,Chateau Giscours,11,11,1882,1901,1.5,3.25
+272,"Roederer, Carte Blanche",15,16,1883,1913,1.75,4
+273,Grand Vin Sec,44,45,1892,2928,1.75,6
+274,Perrier Jouet & Co. Special,5,5,1900,1901,1,4
+275,"St. Marceaux, Extra Quality, Vin Brut",10,10,1901,1910,1.4,2.5
+276,"Ruinart, Pere & Fils",12,12,1892,1914,1,4.5
+277,Cook's St. Louis Imperial,9,9,1882,1901,1,2.5
+278,Graham's London Dock,6,6,1899,1901,1,2
+279,"Old London Dock, White",5,5,1899,1901,2,4
+280,"Champagne, Pommery & Greno, Ex. Dry",14,14,1900,1910,1.4,2.5
+281,"Haut Sauternes, Barton & Guestier",7,7,1900,1913,1,3
+282,"CHAMPAGNE, Moet & Chandon, White Seal",9,9,1885,1908,1.4,3.75
+283,"CHAMPAGNE, Moet & Chandon, Brut Imperial",6,6,1900,1907,1.4,4.5
+284,Extra large sirloin steak with mushrooms,10,11,1900,1914,2,200
+285,Family porterhouse steak,15,15,1889,1914,1.25,2.75
+286,"Filet chateaubriand, plain",12,12,1887,1907,1.5,2.25
+287,Grand Imperial Sec,11,11,1901,1918,1,3.5
+288,Steinwein,12,14,1865,1917,1,4
+289,"Chateaubriant, plain",15,15,1893,1913,1.5,200
+290,"Roast Vermont Turkey, Cranberry Sauce",23,24,1899,1973,1,3.5
+291,"Roederer, Grand Vin Sec",8,8,1901,1913,1.75,4
+292,Chateau Yquem Grand Vin,8,8,1901,1913,2.5,5
+293,"Monongahela Monogram Whisky, 1865",5,5,1892,1901,3,3
+294,Baltimore Club Rye Whisky,8,8,1892,1901,2.5,2.5
+295,Hollywood Whisky,8,8,1892,1901,2,2
+296,"Red-head duck, currant jelly",13,13,1900,1907,3,3
+297,Roast Pheasant,13,13,1899,1917,4.5,4.5
+298,Cold Partridge,6,6,1900,1925,2,4
+299,Dumini & Co,6,6,1900,1900,1.75,4
+300,"Vve. Cliquot, Yellow Label",9,9,1900,1900,1.75,3.75
+301,"Vve. Cliquot, Vin Brut",6,6,1900,1900,2,4
+302,Poularde du Mans,5,6,1895,1913,5,6.25
+303,Long Island Duck,12,12,1898,1943,1,3
+304,Filet mignon with fresh mushrooms,6,6,1900,1961,1.75,3.25
+305,Gold Seal Brut,7,7,1900,1945,1,2.5
+306,Beefsteak and kidney pie,21,21,1900,1958,7.5,7.5
+307,Josephshoefer,15,16,1898,1915,1,2.5
+308,Cold Roast Duck,11,11,1889,1940,1,2
+309,Clicquot Brut,6,7,1896,1917,1.75,6
+310,Moet and Chandon White Seal,12,13,1894,1914,2,8
+311,Pommery and Greno Sec,17,17,1892,1918,2.5,8
+312,Roast Vermont Turkey,22,23,1881,1965,1.75,3.5
+313,G. H. Mumm & Co. Extra Dry,25,26,1890,1915,1.75,4.25
+314,"G.H. Mumm's Ex. Dry, English Market",7,7,1900,1910,1.4,2.5
+315,"Tenderloin Steak, with Truffles",11,12,1882,1900,1,2
+316,"Louis Roederer, Brut",15,15,1892,1959,1.75,11
+317,Chateau Briand,9,9,1900,1917,1.25,5.5
+318,Torley Sec (Hungarian Champagne),6,6,1900,1900,1.5,3
+319,G. H. Mumm,15,15,1896,1913,1.75,4
+320,Steinwein (Bocksbeutel),6,6,1900,1918,1.5,2.75
+321,Schloss Johannisberg,5,5,1891,1900,2,3.5
+322,Lacryma Christi,10,10,1896,1900,1,2
+323,Saddle of Spring Lamb,9,9,1897,1918,8,8
+324,"Tokayer Imperial, 1845",5,5,1900,1900,4.5,4.5
+325,"Tokayer Ausbruch Cabinet, 1860",5,5,1900,1900,3.5,3.5
+326,"Tokayer Maslas, Vintage 1874",5,5,1900,1900,2.5,2.5
+327,Tokaji Bor,5,5,1900,1900,1.25,2.5
+328,Szomorodni,5,5,1900,1900,1,2
+329,"Chateaubriant, with truffles",8,8,1893,1913,2.75,3
+330,Budai Cabinet,5,5,1900,1900,1,2
+331,"CHATEAU EGRI CABINET, 1884",5,5,1900,1900,2,4
+332,"Pontet Canet, Brandenburg Freres",6,6,1882,1901,1,2
+333,"Romanee, 1881",6,6,1900,1900,1.8,6
+334,Montebello Brut,6,6,1900,1917,1,5.5
+335,"Perrier-Jouet & Co., Special",5,5,1900,1900,1.75,3.75
+336,"Louis Roederer, Grand Vin",11,11,1900,1901,1.75,3.75
+337,Breton Sec,10,10,1900,1901,1,3.75
+338,Moet & Chandon Brut,10,10,1894,1957,2,10
+339,Buckwheat,5,5,1900,1917,3.8,3.8
+340,"Chateau Lagrange, 1880",9,9,1891,1913,1.5,4
+341,"Chateau Larose, 1877",8,8,1891,1918,1.5,3.75
+342,"Chateau Mouton Rothschild, 1880",5,5,1892,1901,2.25,4.5
+343,Chateau Lafite Grand Vin,6,6,1892,1901,2.5,5
+344,Chateau Le Crock,11,11,1892,1913,1,2
+345,Laflor Superior,6,6,1901,1913,4,5
+346,Clos Vougeot,16,16,1864,1914,1.25,4
+347,Richebourg,9,9,1890,1900,1.15,6
+348,Bollinger Extra Dry,5,5,1900,1965,3.5,12.5
+349,Nicholson's,5,5,1900,1900,2,2
+350,Urbana Gold Seal,6,8,1900,1918,1,3.5
+351,"Hochheimer, Lauteren & Son",6,6,1900,1901,1,2.5
+352,"Nuits, R. Bruninghaus",9,9,1900,1900,1,3
+353,"Pommard, 1885, Chauvenet",5,5,1900,1900,1.25,2.5
+354,"Chateau Leoville, Barton & Guestier",5,5,1891,1900,1.5,3
+355,Filet Chateaubriand a la Bearnaise,6,6,1882,1913,2,2.75
+356,G. H. Mumm's Cordon Rouge,11,11,1901,1943,1.75,33.75
+357,Mumms Extra Dry,9,10,1899,1985,5,28
+358,"Steinberger Cabinet, L. Lauteren & Son",6,6,1900,1900,2,4
+359,"Chambertin, Bruninghaus",5,5,1888,1900,1.5,3
+360,"Corton, F. Chauvenet & Co.",5,5,1900,1900,3,3
+361,"Chateaubriand, plain",7,7,1900,1914,1.25,2
+362,G.H. Mumm,13,13,1884,1914,1.75,4.5
+363,"Roast Sirloin of Beef, au jus",6,6,1896,1970,4.25,4.75
+364,Assmanshauser,8,8,1900,1918,1,4
+365,"Chateau Leoville, Brandenburg Freres",6,6,1882,1900,1.25,3
+366,G.H. Mumm & Co.'s Extra Dry,23,23,1880,1917,1,5
+367,"Pol. Roger & Co., Dry Special",5,5,1900,1918,2,7
+368,Champagne: Moet & Chandon White Seal,5,5,1900,1901,1.75,8
+369,Piper Heidsieck Champagne,33,33,1881,1961,1.5,14
+370,Cliquot,7,7,1865,1937,2,8.5
+371,Alose sur planche,5,5,1896,1906,2.5,2.5
+372,Planked Shad with roe,11,11,1895,1908,1,75
+373,"Saddle of Lamb, Mint Sauce",11,11,1895,1939,2,2
+374,James Hennessey XXX Brandy,6,6,1900,1900,3,3
+375,"G. H. Mumm's, Ex. Dry, English Market",6,6,1900,1910,1.4,2.5
+376,"G. H. Mumm's, Ex. Dry, American Market",6,6,1900,1901,1.4,2.5
+377,"Haut Sauternes, Calvet and Co.",7,7,1900,1900,1,2
+378,"Pommery, Extra Sec",5,5,1900,1900,2,3.5
+379,Barton & Guestier Batailley,6,6,1900,1900,1,2
+380,Nath. Johnston's Chateau Leoville,7,7,1891,1900,1.5,3
+381,Mumm's Champagne,13,14,1901,1955,2.25,7.5
+382,Moet & Chandon Imperial Brut,13,13,1898,1913,2,5
+383,G.H. Mumm & Co's Extra Dry,9,9,1889,1914,2,4
+384,Veuve Cliquot,9,10,1887,1914,2,6
+385,Terrapin with Sherry,7,7,1907,1914,3.5,3.5
+386,G. H. Mumm's Selected Brut,20,20,1906,1914,2.25,5
+387,Roast Long Island Duckling,21,23,1907,1962,1,5.5
+388,Emince of chicken a la King,20,20,1905,1959,1.25,7.95
+389,"G.H. Mumm's, Ex. Dry, American Market",5,5,1900,1901,1.4,2.5
+390,"Pommery, Brut",19,19,1896,1959,2,11.75
+391,"Duc de Montebello, Brut",9,9,1900,1918,2,6.5
+392,Chateau Latour,17,18,1856,1981,1.25,14
+393,"Chateau Margaux, 1896",5,5,1905,1907,1.25,2.5
+394,Sparkling Pommard,16,16,1905,1918,1.5,5
+395,Pommery & Greno Sec Champagne,10,10,1900,1917,2,6
+396,sandemann port wine,5,5,1900,1900,3,3
+397,"G.H. Mumm's, Ex. Dry, English Market",5,5,1900,1901,1.4,2.5
+398,Potatoes Rissole,11,11,1899,1958,10,10
+399,"Piper Heidsieck, Brut Extra",7,7,1895,1938,1.4,7.5
+400,G.H. Mumm's Cordon Rouge,8,8,1901,1941,1.75,33.75
+401,1891 Haut Peyraguey,5,5,1900,1901,1,10.75
+402,"Champagne, St. Marceaux, Extra Quality, Vin Brut",5,5,1901,1910,1.4,2.5
+403,Brisket of Beef,6,6,1900,1985,2.25,2.25
+404,Assmannshauser Auslese,7,7,1900,1915,1.25,2.5
+405,Squab Guinea Hen,11,11,1907,1914,1,2
+406,Duc de Montebello Champagne,6,6,1900,1919,1.75,7
+407,"POMMERY & GRENO Champagne, Sec",6,6,1900,1905,1.5,3
+408,Guinea chick,14,14,1905,1905,1.5,2
+409,"Terrapin, Philadelphia Style",16,16,1889,1915,1.25,2.5
+410,"Lobster, Bonnefoy",7,7,1905,1914,1.25,2
+411,Mumm's Selected Brut,12,12,1906,1914,3.25,6
+412,L. Roederer's Dry Sillery,5,5,1881,1882,1.5,3.5
+413,Green Seal,5,5,1859,1880,1.5,6
+414,Salade Parisienne,9,9,1906,1939,8.5,8.5
+415,Extra sirloin steak (for 3),7,7,1905,1933,1.75,5.25
+416,ROEDERER GRAND VIN SEC,8,8,1888,1906,1.75,3.5
+417,Pichon,5,5,1892,1897,5,5
+418,Moet Imperial Brut,7,7,1890,1897,4.5,4.5
+419,Canvas-back,6,6,1881,1907,4,4
+420,Boston Duck,12,12,1906,1918,2.5,275
+421,Cold Squab chicken,7,7,1905,1906,1.25,125
+422,Cold milk fed chicken,6,6,1905,1906,1.25,125
+423,Biscuit aux fraises a la Chantilly,11,11,1906,1906,1.25,125
+424,Roast Milk Fed Chicken,9,9,1905,1919,2.5,25
+425,PERRIER JOUET SPECIAL,10,10,1890,1899,1.75,3.5
+426,Milk-fed Guinea Chicken,9,9,1906,1907,2.25,225
+427,"Chicken Casserole, Woodmansten",8,8,1906,1907,2.25,250
+428,G.H. Mumm's Selected Brut,5,5,1905,1915,2.5,6.5
+429,Cold Asparagus Vinaigrette,5,5,1896,1933,4.5,4.5
+430,Stewed Terrapin,7,7,1887,1901,2,2
+431,Chateau Sauterne,9,9,1864,1906,1,3
+432,"Heidsieck, Piper & Co.",5,5,1859,1883,1.25,3.5
+433,Lobster au gratin,14,15,1906,1969,1.25,125
+434,Hot House Peaches,7,7,1906,1906,1.25,150
+435,Hot House Plums,7,7,1906,1906,1,100
+436,St Julien Superieur,7,7,1889,1917,1.1,2
+437,G. H. Mumm & Co. Cordon Rouge,5,5,1862,1914,3.5,4.5
+438,Sirloin Steak (for two),9,9,1905,1949,1.1,4
+439,Terrapin Newburg,5,5,1896,1917,3.5,350
+440,"G.H. Mumm & Co., Selected Brut",5,5,1907,1916,2,4.5
+441,Crabes mous frits,8,8,1905,1969,1,3.75
+442,Imperial Amontillado,6,6,1865,1937,4,4
+443,Diamond back terrapin a la Maryland,5,5,1896,1954,2,2.75
+444,Hot-house lamb Capon,8,8,1906,1906,4,4
+445,Agneau de lait Chapon,10,10,1906,1906,4,4
+446,Fraises aux primeurs Melba,8,8,1906,1906,1,100
+447,Krug & Co.,13,13,1881,1917,1,5.5
+448,Mumm's,7,7,1898,1914,1.75,3.5
+449,Cliquot Yellow label,7,7,1895,1963,5,16
+450,"Tournedos, Rossini",6,6,1906,1910,1.15,2.25
+451,Sparkling Johannisberg,5,5,1864,1891,1.5,4
+452,Veuve Clicquot Dry,5,5,1881,1882,1.75,3.5
+453,Roederer Carte Blanche,7,7,1882,1900,1.75,3.5
+454,Roast Guinea Chicken,11,11,1906,1917,2,2.85
+455,Double sirloin steak with mushrooms,6,6,1894,1918,1.35,90
+456,"Clos de Vougeot, 1887",6,6,1900,1901,2,4
+457,"Chateau Yquem, B. & G.",7,7,1900,1901,2.25,4.5
+458,"Chateau Leoville, B. & G.",6,6,1882,1901,1.25,3
+459,"Chateau Margaux, B. & G.",6,6,1900,1901,1.75,3.5
+460,"Vve. Clicquot, Yellow Label",9,9,1901,1917,1.75,5.5
+461,Squab chicken en casserole,6,6,1905,1945,1,2.75
+462,Marcobrunner Riesling,5,5,1907,1915,2,2.5
+463,Chateau Leoville Lascases,6,6,1907,1915,2,2.5
+464,chateau haut brion,9,9,1892,1966,3.5,5.5
+465,"Irroy, Brut",7,7,1892,1938,1.75,4
+466,Bouche Vin Brut,7,7,1896,1900,1.75,3.75
+467,Caneton du Printemps,5,5,1900,1900,1.25,2.5
+468,Faisan Anglais,6,6,1896,1913,2.5,4.25
+469,L. Roederer's Carte Blanche,8,8,1881,1883,1.5,4
+470,Terrapin Baltimore,11,12,1899,1937,2.5,4
+471,Charles Heidsieck,11,11,1859,2012,1.25,25
+472,Planked Sirloin Steak,7,7,1905,1940,1.25,2.25
+473,"G. H. Mumm & Co., Selected Brut",12,12,1905,1914,2,6
+474,Chambertin Sparkling,30,31,1883,1928,2.25,5.5
+475,Romanee,7,7,1851,1905,2,4.5
+476,G H Mumm & Co Extra Dry,24,24,1880,1915,1.75,12
+477,"Pommery & Greno, Brut",18,19,1905,1961,2,12
+478,"Ruinart, Pere & Fils, Brut",9,9,1907,1913,2,4
+479,Chateau Olivier,8,8,1907,1978,1,11.5
+480,"Johannisberger Schloss, 1897",9,9,1905,1914,2,4
+481,"Moet & Chandon, White Seal Champagne",28,28,1900,1939,1.4,14.5
+482,"HEIDSIECK & Co., Monopole",5,5,1898,1899,1.25,2.5
+483,Green Turtle Amontillado,9,9,1905,1969,1.45,3.1
+484,Krug & Co,6,6,1866,1914,1.5,5
+485,Royal Charter,5,5,1889,1892,1.75,3.5
+486,Imperial Madeira,5,5,1888,1896,3,5
+487,Filet Mignon en Casserole,7,7,1899,1944,1.1,2.25
+488,"Veuve Clicquot, Yellow Label Champagne",13,13,1889,1917,1.75,5
+489,Whole Spring Chicken en Casserole,6,6,1900,1919,1.5,125
+490,Sparkling Chablis,9,9,1905,1915,1.3,4
+491,Dry Monopole champagne,9,10,1888,1940,1.75,7.5
+492,Liebfraumilch rhine wine,7,8,1888,1950,1,5
+493,Old London Dock Jamaica Rum,5,5,1892,1900,2,2.5
+494,Poulet de grain roti,5,5,1906,1952,2.5,2.5
+495,Pommery & Greno Champagne,9,9,1887,1950,1.75,12.5
+496,Roederer,6,6,1884,2012,2,3.5
+497,Imported French Partridge,5,5,1900,1900,1,2
+498,Cold York Ham,19,19,1892,1959,3.5,3.5
+499,"Duc Montebello, Extra Dry",6,6,1900,1900,1.75,3.5
+500,G. H. Mumm & Co.'s Extra Dry Champagne,5,5,1901,1914,1.15,4.5
+501,G. H. Mumm's Extra Dry Champagne,10,10,1889,1963,1.75,10.5
+502,Grand Vin Sec Champagne,10,10,1900,1918,1.75,6
+503,Pommery champagne,5,5,1888,1955,2,12
+504,Roast Imperial squab,6,6,1905,1906,1.25,125
+505,"L. Roederer, Carte Blanche",5,5,1881,1916,1.75,5.5
+506,G.H. Mumm's Extra Dry champagne,7,7,1900,1917,1.75,5.5
+507,Bollinger,6,6,1880,2012,1.75,25
+508,"Chambertin, Clos de Beze, 1895",5,5,1907,1915,3.5,4
+509,Clicquot Sec,5,5,1892,1929,4,5.5
+510,"Terrapin, Trenton",15,15,1897,1914,3.5,3.5
+511,Roast Turkey with Dressing,5,5,1895,1955,2.25,2.5
+512,"Assmannshauser, red",5,5,1892,1917,1,4
+513,Ris de veau a la Financiere,5,5,1898,1967,2,4
+514,Nebbiolo,6,6,1896,1958,1,8
+515,Chateaubriand aux champignons,11,11,1901,1919,2,2.75
+516,Appetizer,5,7,1894,1987,12,12
+517,Broiled Veal Chops,10,11,1859,1985,1.25,26.5
+518,"Baked Ham, Virginia Style",6,6,1901,1957,3,3.85
+519,"Krug & Co., Private Cuvee",15,15,1905,1918,2,7
+520,"Gold Seal, Special Dry Champagne",8,8,1900,1941,1,3.25
+521,Pink Cap,7,7,1905,1917,2,5
+522,Poussin froid,5,5,1905,1906,1.25,125
+523,"Sirloin Steak, Mirabeau",6,6,1905,1917,1.25,3
+524,Chateau Carbonnieux,9,9,1905,1917,1.1,3
+525,Breast of Turkey,6,6,1906,1987,1.3,4.2
+526,MOET & CHANDON WHITE SEAL CHAMPAGNE,5,5,1891,1961,1.75,6.25
+527,Roast Stuffed Capon,7,7,1906,1959,2.6,2.6
+528,"Filet Mignon, Jardiniere",7,7,1906,1947,1.65,3.75
+529,Carrots and Peas in Cream,5,5,1900,1933,15,15
+530,Pommery Brut Champagne,7,7,1896,1919,1.75,6.5
+531,Ruinart Brut Champagne,12,12,1889,1919,1.25,14
+532,Perrier-Jouet Champagne,7,7,1887,1917,1.5,6
+533,"Pommery, Sec Champagne",10,10,1891,1918,1.75,6.5
+534,"Pommery & Greno, Sec Champagne",5,5,1900,1917,2.25,6
+535,Charles Heidsieck Champagne,11,11,1857,1959,1.25,12.5
+536,Boneless squab,6,6,1900,1914,1,75
+537,"Supreme of Chicken, Jeanette",20,23,1907,1918,1.5,75
+538,"Extra sirloin steak, planked",8,8,1906,1917,2.5,3.5
+539,Western Omelet,10,10,1917,1987,0.3,1.5
+540,Danish Pastry,288,296,1933,1987,0,20
+541,Blended Whiskey,3,3,1940,1963,0.35,0.75
+542,Gin and Tonic,40,40,1947,1987,0,3.95
+543,Michelob Beer,6,6,1916,1987,0.2,1.25
+544,Tomato Juice,978,1172,1919,1998,0,30
+545,Soft Drinks,36,38,1938,1989,0,1
