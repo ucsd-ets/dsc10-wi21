@@ -1,0 +1,13 @@
+test = {   'name': 'q57',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': '>>> ok_test_array = np.array([1, 2, 3, 4, 5, 6, 7]);\n>>> abs(11 - (np.mean(ok_test_array) - mean_based_estimator(ok_test_array))) < 4\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> ok_test_array = np.array([5, 4, 3, 6, 7, 1, 4, 12, 8]);\n>>> abs(11 - (np.mean(ok_test_array) - mean_based_estimator(ok_test_array))) < 4\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> abs(11 - (np.mean(observations) - mean_based_estimator(observations))) < 4\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
