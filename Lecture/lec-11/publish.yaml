@@ -1,0 +1,26 @@
+metadata:
+    date: 2020-10-22 15:30:00
+    number: 07
+    topic: Multiple GroupBy, Merge, Conditionals, Iteration
+    videos:
+        - title: Multiple GroupBy
+          url: https://youtu.be/00sv0GCkQFc
+        - title: Merge
+          url: https://youtu.be/Jff-3qhRxu4
+        - title: Comparisons and Booleans
+          url: https://youtu.be/ezeDWUF7L9Q
+        - title: Conditionals (If-statements)
+          url: https://youtu.be/9r4ea0duyVY
+        - title: Iteration (For-loops)
+          url: https://youtu.be/chXkCWOD0JU
+
+release_time: 3 hours before metadata.date
+
+artifacts:
+    blank/export.zip:
+        recipe: make export-blank
+        file: ./build/export-blank.zip
+
+    filled/export.zip:
+        recipe: make export-filled
+        file: ./build/export-filled.zip
