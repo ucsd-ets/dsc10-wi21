@@ -1,0 +1,10 @@
+test = {   'name': 'q15',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': ">>> len(shuffled_scores) == len(midterm.get('Autograder Score'))\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> np.count_nonzero(shuffled_scores == midterm.get('Autograder Score')) != len(midterm.get('Autograder Score'))\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

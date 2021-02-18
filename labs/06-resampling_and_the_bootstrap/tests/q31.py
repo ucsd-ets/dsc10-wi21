@@ -1,0 +1,10 @@
+test = {   'name': 'q31',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> 0 < preliminaries_q1 < 5\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> preliminaries_q1 != 1\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> preliminaries_q1 != 3\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> preliminaries_q1 != 4\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

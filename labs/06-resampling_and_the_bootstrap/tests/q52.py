@@ -1,0 +1,10 @@
+test = {   'name': 'q52',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> np.mean(bootstrap_estimates) > 0\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.mean(bootstrap_estimates) < 200\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.mean(bootstrap_estimates) > 110\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.mean(bootstrap_estimates) < 130\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
