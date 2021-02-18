@@ -1,0 +1,20 @@
+metadata:
+    date: 2020-11-12 15:30:00
+    number: 12
+    topic: Permutation Testing
+    videos:
+        - title: Permutation Testing
+          url: https://youtu.be/0WihGDObpNs
+        - title: Deflategate
+          url: https://youtu.be/3SoeQDISxXY
+        - title: Establishing Causality
+          url: https://youtu.be/n3L-gxBf9eI
+
+artifacts:
+    blank/export.zip:
+        recipe: make export-blank
+        file: ./build/export-blank.zip
+
+    filled/export.zip:
+        recipe: make export-filled
+        file: ./build/export-filled.zip
