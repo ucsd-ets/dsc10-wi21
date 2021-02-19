@@ -1,0 +1,22 @@
+metadata:
+    date: 2020-11-17 15:30:00
+    number: 13
+    topic: Bootstrapped Confidence Intervals
+    videos:
+        - title: The Sample Distribution
+          url: https://youtu.be/3-zBVCCare4
+        - title: The Bootstrap
+          url: https://youtu.be/-ZahLoSjBJg
+        - title: Bootstrapped Confidence Intervals
+          url: https://youtu.be/6Ja3k0L8zzs
+        - title: Interpreting Confidence Intervals
+          url: https://youtu.be/i1D7nBww5UA
+
+artifacts:
+    blank/export.zip:
+        recipe: make export-blank
+        file: ./build/export-blank.zip
+
+    filled/export.zip:
+        recipe: make export-filled
+        file: ./build/export-filled.zip
