@@ -1,0 +1,12 @@
+test = {   'name': 'q2_5',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> import numbers;\n>>> isinstance(lower_bound, numbers.Real)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> import numbers;\n>>> isinstance(upper_bound, numbers.Real)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> upper_bound <= 100\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> lower_bound <= 100\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> upper_bound >= 0\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> lower_bound >= 0\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
