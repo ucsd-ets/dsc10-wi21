@@ -1,0 +1,10 @@
+test = {   'name': 'q3_2',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> callable(difference_of_means)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> import numbers;\n>>> isinstance(difference_of_means(med_creative, 'Medical', 'Creative', 'FB_Shares'), numbers.Real)\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

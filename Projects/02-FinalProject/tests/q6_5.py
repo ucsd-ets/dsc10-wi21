@@ -1,0 +1,11 @@
+test = {   'name': 'q6_5',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': ">>> without_outliers.shape[1] == 13 #Don't modify without_outliers, create a new table called standardized instead.\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> standardized.shape[1] == 15\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> 'Standardized_Amount_Raised' in standardized.columns and 'Standardized_FB_Shares' in standardized.columns\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
