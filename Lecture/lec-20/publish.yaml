@@ -1,0 +1,20 @@
+metadata:
+    date: 2020-11-19 15:30:00
+    number: 14
+    topic: "Confidence Intervals; Mean and Spread"
+    videos:
+        - title: More Confidence Intervals
+          url: https://youtu.be/-XZabNN3x5M
+        - title: CIs and Testing
+          url: https://youtu.be/00rnyfBmsFQ
+        - title: Mean and Spread
+          url: https://youtu.be/k5qjqrrE2mI
+
+artifacts:
+    blank/export.zip:
+        recipe: make export-blank
+        file: ./build/export-blank.zip
+
+    filled/export.zip:
+        recipe: make export-filled
+        file: ./build/export-filled.zip
