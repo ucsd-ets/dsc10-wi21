@@ -1,0 +1,22 @@
+metadata:
+    date: 2020-11-24 15:30:00
+    number: 15
+    topic: The Normal Curve and the Central Limit Theorem
+    videos:
+        - title: Standard Normal Curve
+          url: https://youtu.be/7PSGtDEGa64
+        - title: Area Under the Curve (CDF)
+          url: https://youtu.be/oUbg5-y84CU
+        - title: Standard Units
+          url: https://youtu.be/RR86MR0QhtM
+        - title: The Central Limit Theorem
+          url: https://youtu.be/7vsFs074fek
+
+artifacts:
+    blank/export.zip:
+        recipe: make export-blank
+        file: ./build/export-blank.zip
+
+    filled/export.zip:
+        recipe: make export-filled
+        file: ./build/export-filled.zip
