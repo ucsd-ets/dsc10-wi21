@@ -1,0 +1,10 @@
+test = {   'name': 'q2_1b',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(writing_fixed, bpd.DataFrame)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> isinstance(course_means_fixed, bpd.DataFrame)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> set(writing_fixed.columns.values) == {'Study Hrs/wk', 'course', 'grades'}\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> set(course_means_fixed.columns.values) == {'Study Hrs/wk', 'grades'}\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
