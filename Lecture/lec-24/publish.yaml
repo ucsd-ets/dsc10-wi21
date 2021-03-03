@@ -1,0 +1,22 @@
+metadata:
+    date: 2020-12-01 15:30:00
+    number: 16
+    topic: Normal Confidence Intervals
+    videos:
+        - title: Review of the CLT
+          url: https://youtu.be/epczp2w91xE
+        - title: Constructing Normal CIs
+          url: https://youtu.be/2-T2kCMASYE
+        - title: Normal CIs for Hypothesis Testing
+          url: https://youtu.be/WlKdNkFgOUw
+        - title: Experiment Design
+          url: https://youtu.be/Fk65N2-CoT0
+
+artifacts:
+    blank/export.zip:
+        recipe: make export-blank
+        file: ./build/export-blank.zip
+
+    filled/export.zip:
+        recipe: make export-filled
+        file: ./build/export-filled.zip
