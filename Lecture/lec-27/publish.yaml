@@ -1,0 +1,20 @@
+metadata:
+    date: 2020-12-03 15:30:00
+    number: 17
+    topic: Regression
+    videos:
+        - title: Prediction
+          url: https://youtu.be/C6KVuzlNcEU
+        - title: Correlation
+          url: https://youtu.be/yE-qt0LiHQ8
+        - title: Linear Regression
+          url: https://youtu.be/I1-3yW5A42s
+
+artifacts:
+    blank/export.zip:
+        recipe: make export-blank
+        file: ./build/export-blank.zip
+
+    filled/export.zip:
+        recipe: make export-filled
+        file: ./build/export-filled.zip
